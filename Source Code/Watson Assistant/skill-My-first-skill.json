@@ -1,0 +1,1606 @@
+{
+  "intents": [
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Ankit Sahu"
+        },
+        {
+          "text": "About you"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "book_an_appointment",
+      "examples": [
+        {
+          "text": "make an appointment for me"
+        },
+        {
+          "text": "Book an appointment"
+        },
+        {
+          "text": "I want to book an appointment"
+        }
+      ],
+      "description": "Book an Appointment"
+    },
+    {
+      "intent": "product_information",
+      "examples": [
+        {
+          "text": "How do I turn on the heater"
+        },
+        {
+          "text": "How do I set the time"
+        },
+        {
+          "text": "How do I access the settings"
+        }
+      ],
+      "description": "User wants help using the thermostat"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey you"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "book_a_ticket",
+      "examples": [
+        {
+          "text": "Book a ticket"
+        },
+        {
+          "text": "I want to book a ticket"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Customer_Care_Contact_Us",
+      "examples": [
+        {
+          "text": "I want to know number to the store closest to me"
+        },
+        {
+          "text": "I would like to speak to customer service."
+        },
+        {
+          "text": "Is there a phone number to your shop at fort worth tx?"
+        },
+        {
+          "text": "Need your phone number"
+        },
+        {
+          "text": "Tell me the number to your general department"
+        },
+        {
+          "text": "What is the closest store's phone number?"
+        },
+        {
+          "text": "What is the customer number?"
+        },
+        {
+          "text": "What is you email?"
+        },
+        {
+          "text": "What number should I call to order new line of service?"
+        },
+        {
+          "text": "Where can I reach the company personally?"
+        },
+        {
+          "text": "Which is the number of the main office here in los angeles?"
+        },
+        {
+          "text": "Who can I call?"
+        },
+        {
+          "text": "Can I contact the business by post?"
+        },
+        {
+          "text": "Can I get some more information?"
+        },
+        {
+          "text": "Can I text you a question?"
+        },
+        {
+          "text": "Can you give me the number to the general manager?"
+        },
+        {
+          "text": "Can you please arrange for someone to call me!?"
+        },
+        {
+          "text": "How can I contact your business?"
+        },
+        {
+          "text": "Hi can you let me have the telephone number of my local store please?"
+        },
+        {
+          "text": "How do I best contact you when there has been a problem with my bill?"
+        }
+      ],
+      "description": "Find basic contact information."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "Why are you stupid?"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Customer_Care_Store_Hours",
+      "examples": [
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "Are the stores open early?"
+        },
+        {
+          "text": "Are you open during thanksgiving?"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "Can you tell me how late the stores are open till?"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "What are the business hours of the store nearest to me?"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        },
+        {
+          "text": "What are your hous?"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        }
+      ],
+      "description": "Find business hours."
+    },
+    {
+      "intent": "Customer_Care_Store_Location",
+      "examples": [
+        {
+          "text": "I want to know about a store"
+        },
+        {
+          "text": "I'd like to go to a store"
+        },
+        {
+          "text": "Is there any shopping mall around me?"
+        },
+        {
+          "text": "Looking for a location"
+        },
+        {
+          "text": "Restuarants nearby please"
+        },
+        {
+          "text": "Show me nearest service center"
+        },
+        {
+          "text": "What is the closest pharmacy?"
+        },
+        {
+          "text": "What is the closest store to my address?"
+        },
+        {
+          "text": "What is the nearest branch?"
+        },
+        {
+          "text": "What is the store near my zip code?"
+        },
+        {
+          "text": "Where are the store locations closest to davis city hall?"
+        },
+        {
+          "text": "Where are you located?"
+        },
+        {
+          "text": "Where is your office?"
+        },
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "I need help with find a store"
+        },
+        {
+          "text": "Go to your company"
+        },
+        {
+          "text": "Find store"
+        },
+        {
+          "text": "Do you have an office in denver?"
+        },
+        {
+          "text": "Can you tell me about physical locations you have in new jersey?"
+        },
+        {
+          "text": "Can you help me find locations in the general area of downtown baltimore?"
+        }
+      ],
+      "description": "Locate a physical store location or an address."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "vegerarian",
+          "synonyms": [
+            "vegetarian menu",
+            "vegetarian",
+            "veg menu",
+            "veg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cake shop",
+          "synonyms": [
+            "Cake shop menu"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "standard",
+          "synonyms": [
+            "Standard menu",
+            "cuisine"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "contact_info",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "mobile_no",
+          "patterns": [
+            "^(\\(?\\+?[0-9]*\\)?)?[0-9_\\- \\(\\)]*$"
+          ]
+        },
+        {
+          "type": "patterns",
+          "value": "email",
+          "patterns": [
+            "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "order_number",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "order_syntax",
+          "patterns": [
+            "[A-Z]{2}\\d{5}"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "time squres",
+          "synonyms": [
+            "time squre"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "christmas's eve",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "new year",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "new year's eve",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/ankit404sahu%40gmail.com_dev/default/Intelligent%20Customer%20Help%20Desk%20with%20Smart%20Document%20Understanding.json",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1589305697103",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1589305697150",
+      "previous_sibling": "handler_2_1589305697150"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1589305697103",
+      "context": {
+        "holiday__christmas's": "@holiday:(christmas's eve) || @holiday:"
+      },
+      "conditions": "@holiday:(christmas's eve) || @holiday:",
+      "event_name": "input",
+      "dialog_node": "handler_2_1589305697150"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are located by Union Square on the corner of 13th and Broadway."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1589224267651",
+      "conditions": "true",
+      "dialog_node": "response_10_1589226205510",
+      "previous_sibling": "response_8_1589307825444"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get our Store location from @landmark, turn left and go stright 100mt, there you can find SATYAMEV BHABAN, on 8th floor our store is located."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1589224267651",
+      "conditions": "@landmark:(grand central)",
+      "dialog_node": "response_8_1589307825444",
+      "previous_sibling": "response_3_1589307816946"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get our Store location from @landmark, turn left and go stright 100mt, there you can find SATYAMEV BHABAN, on 8th floor our store is located."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1589224267651",
+      "conditions": "@landmark:(time squres)",
+      "dialog_node": "response_3_1589307816946",
+      "previous_sibling": "response_6_1589307795153"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To get our Store location from @landmark, turn left and go stright 100mt, there you can find SATYAMEV BHABAN, on 8th floor our store is located."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1589224267651",
+      "conditions": "@landmark:(empire state building)",
+      "dialog_node": "response_6_1589307795153"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What day would you like to Book ?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1589221828684",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1589221828714",
+      "previous_sibling": "handler_2_1589221828714"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1589221828684",
+      "context": {
+        "date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_2_1589221828714"
+    },
+    {
+      "type": "frame",
+      "title": "Book a ticket",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, I am making you a reservation for $guests on $date at $time with your present location $location ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1589558255176",
+      "conditions": "#book_a_ticket",
+      "dialog_node": "node_2_1589221570815",
+      "previous_sibling": "node_8_1589209546781"
+    },
+    {
+      "type": "standard",
+      "title": "Email Test",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Email is : "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1589558255176",
+      "conditions": "#book_an_appointment",
+      "dialog_node": "node_2_1589655052752",
+      "previous_sibling": "node_2_1589221570815"
+    },
+    {
+      "type": "standard",
+      "title": "Test For List Label",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In keeping with our commitment to giving you only fresh local ingredients, our menu changes daily to accommodate the produce we pick up in the morning. You can find today's menu on our website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Which menu do you want to see ?",
+            "options": [
+              {
+                "label": "Standard",
+                "value": {
+                  "input": {
+                    "text": "Standard Menu"
+                  }
+                }
+              },
+              {
+                "label": "Vegetarian",
+                "value": {
+                  "input": {
+                    "text": "Vegetarian menu"
+                  }
+                }
+              },
+              {
+                "label": "Cake Shop",
+                "value": {
+                  "input": {
+                    "text": "Cake Shop Menu"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1589558255176",
+      "conditions": "#General_Jokes",
+      "dialog_node": "node_8_1589209546781"
+    },
+    {
+      "type": "standard",
+      "title": "General Ending",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for reaching us."
+              },
+              {
+                "text": "Thanks for using me"
+              },
+              {
+                "text": "Thank u"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1589552220651",
+      "conditions": "#General_Ending",
+      "dialog_node": "node_5_1589226384886",
+      "previous_sibling": "node_2_1589206897506"
+    },
+    {
+      "type": "standard",
+      "title": "General about you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am a virtual assistant that is designed to answer your questions about the Truck Stop Gourmand restaurant. What's your name?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1589552220651",
+      "conditions": "#General_About_You",
+      "dialog_node": "node_8_1589219492139",
+      "previous_sibling": "node_5_1589226384886"
+    },
+    {
+      "type": "standard",
+      "title": "General Negative Feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You said: <? input.text ?>.....................\nSorry for your negative feedback. I have tried my best. To get more help you can direct call with us. (type \"Contact Us\" to get Tool free Number)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1589552220651",
+      "conditions": "#General_Negative_Feedback",
+      "dialog_node": "node_4_1589556077121",
+      "previous_sibling": "node_8_1589219492139"
+    },
+    {
+      "type": "standard",
+      "title": "General Positive Feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your appreciation."
+              },
+              {
+                "text": "Thank you so much"
+              },
+              {
+                "text": "Thanks for your feedback"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1589552220651",
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "node_1_1589556357907",
+      "previous_sibling": "node_4_1589556077121"
+    },
+    {
+      "type": "standard",
+      "title": "General Greetings",
+      "parent": "node_1_1589552220651",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_2_1589206897506"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            " Try again later"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1589048194781",
+      "conditions": "anything_else",
+      "dialog_node": "response_8_1589048259784",
+      "previous_sibling": "response_6_1589048256565"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_1.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1589048194781",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_6_1589048256565"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What time would you like to Book ?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1589221986895",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1589221986898",
+      "previous_sibling": "handler_9_1589221986898"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1589221986895",
+      "context": {
+        "time": "@sys-time"
+      },
+      "conditions": "@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_9_1589221986898"
+    },
+    {
+      "type": "standard",
+      "title": "Standard Menu",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To see our vegetarian menu, go to the <a href=\"https://www.ankit4b.pythonanywhere.com\" target=\"blank\">vegetarian menu</a> page on our website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1589209546781",
+      "conditions": "@menu:standard",
+      "dialog_node": "node_3_1589210277782",
+      "previous_sibling": "node_10_1589212437368"
+    },
+    {
+      "type": "standard",
+      "title": "Cake Shop",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Add the following message in the response text field, To see our cake shop menu, go to the <a href=\"https://www.example.com/menu.html\" target=\"blank\">cake shop menu</a> page on our website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1589209546781",
+      "conditions": "@menu:(Cake shop)",
+      "dialog_node": "node_10_1589212437368",
+      "previous_sibling": "node_1_1589212388435"
+    },
+    {
+      "type": "standard",
+      "title": "Vegetarian",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Add the following message in the response text field, To see our cake shop menu, go to the <a href=\"https://www.example.com/menu.html\" target=\"blank\">cake shop menu</a> page on our website."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1589209546781",
+      "conditions": "@menu:vegerarian",
+      "dialog_node": "node_1_1589212388435"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello,  How can I help you today?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1589206897506",
+      "dialog_node": "response_9_1589220773748",
+      "previous_sibling": "response_1_1589220720098"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey.....  How can I help you today ?"
+              },
+              {
+                "text": "Have a good day"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1589206897506",
+      "conditions": "$username",
+      "dialog_node": "response_1_1589220720098"
+    },
+    {
+      "type": "slot",
+      "parent": "node_2_1589221570815",
+      "variable": "$time",
+      "dialog_node": "slot_5_1589221986895",
+      "previous_sibling": "slot_3_1589221828684"
+    },
+    {
+      "type": "slot",
+      "parent": "node_2_1589221570815",
+      "variable": "$guests",
+      "dialog_node": "slot_3_1589222049947",
+      "previous_sibling": "slot_5_1589221986895"
+    },
+    {
+      "type": "slot",
+      "parent": "node_2_1589221570815",
+      "variable": "$location",
+      "dialog_node": "slot_2_1589223344888",
+      "previous_sibling": "slot_3_1589222049947"
+    },
+    {
+      "type": "slot",
+      "parent": "node_2_1589221570815",
+      "variable": "$date",
+      "dialog_node": "slot_3_1589221828684"
+    },
+    {
+      "type": "standard",
+      "title": "true",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How can I help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1589219492139",
+      "conditions": "true",
+      "dialog_node": "node_2_1589220070836",
+      "previous_sibling": "node_2_1589219557814"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, <? @sys-person.literal ?>! It's lovely to meet you. How can I help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1589219492139",
+      "context": {
+        "username": "<? @sys-person.literal ?>"
+      },
+      "conditions": "@sys-person",
+      "dialog_node": "node_2_1589219557814"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are closed on @holiday"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1589225915193",
+      "conditions": "@holiday:christmas ||    @holiday:(new year) ||   @holiday:(christmas's eve)",
+      "dialog_node": "response_6_1589226024663",
+      "previous_sibling": "slot_7_1589305697103"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on @holiday regular hour."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1589225915193",
+      "conditions": "@holiday",
+      "dialog_node": "response_3_1589305882024",
+      "previous_sibling": "response_6_1589226024663"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our hours from monday to saturday an 10am to 5pm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1589225915193",
+      "conditions": "true",
+      "dialog_node": "response_2_1589305890018",
+      "previous_sibling": "response_3_1589305882024"
+    },
+    {
+      "type": "slot",
+      "parent": "node_6_1589225915193",
+      "variable": "$holiday__christmas's",
+      "dialog_node": "slot_7_1589305697103"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please allow your location ? "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1589223344888",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1589223344893",
+      "previous_sibling": "handler_5_1589223344893"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1589223344888",
+      "context": {
+        "location": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_5_1589223344893"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "How many person would you like to book ?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1589222049947",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1589222049952",
+      "previous_sibling": "handler_3_1589222049952"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1589222049947",
+      "context": {
+        "guests": "@sys-number"
+      },
+      "conditions": "@sys-number",
+      "event_name": "input",
+      "dialog_node": "handler_3_1589222049952"
+    },
+    {
+      "type": "standard",
+      "title": "Ask about product",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#product_information",
+      "dialog_node": "node_5_1589048194781",
+      "previous_sibling": "node_7_1589224267651"
+    },
+    {
+      "type": "folder",
+      "title": "Test",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1589558255176",
+      "previous_sibling": "Anything else"
+    },
+    {
+      "type": "folder",
+      "title": "General",
+      "dialog_node": "node_1_1589552220651",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Customer Care Contact Us",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Contact us : \nToll free number: 1800 11 2211,  1800 425 3800, 080-26599990\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Customer_Care_Contact_Us",
+      "dialog_node": "node_3_1589553376436",
+      "previous_sibling": "node_1_1589552220651"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_5_1589048194781",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Customer care store hours",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Customer_Care_Store_Hours",
+      "dialog_node": "node_6_1589225915193",
+      "previous_sibling": "node_3_1589553376436"
+    },
+    {
+      "type": "standard",
+      "title": "Customer Care Store Location",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Customer_Care_Store_Location",
+      "dialog_node": "node_7_1589224267651",
+      "previous_sibling": "node_6_1589225915193"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, Welcome to Intelligent Customer Help Desk"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
