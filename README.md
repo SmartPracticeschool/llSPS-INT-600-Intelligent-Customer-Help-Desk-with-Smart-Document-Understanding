@@ -22,6 +22,6 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 Node Red Dashboard Link : https://intelligent-customer-help-desk-with-smart-document-sb26365.eu-gb.mybluemix.net/ui/
 
-Watson Assistant Preview link : https://integrations.eu-gb.assistant.watson.cloud.ibm.com/web/public/b212983a-5e9a-4a6e-80df-6ec133cd2b98
+Watson Assistant Preview link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=b212983a-5e9a-4a6e-80df-6ec133cd2b98&serviceInstanceID=2e28ef5f-e425-4edc-9940-90c6a256b44a
 
 Youtube Link : https://youtu.be/J1deOmU-UtY
